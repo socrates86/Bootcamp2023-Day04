@@ -1,0 +1,14 @@
+C:\Projects\Bootcamp2023\Day04\Example5\bin\Debug\net7.0\Example5.exe
+C:\Projects\Bootcamp2023\Day04\Example5\bin\Debug\net7.0\Example5.deps.json
+C:\Projects\Bootcamp2023\Day04\Example5\bin\Debug\net7.0\Example5.runtimeconfig.json
+C:\Projects\Bootcamp2023\Day04\Example5\bin\Debug\net7.0\Example5.dll
+C:\Projects\Bootcamp2023\Day04\Example5\bin\Debug\net7.0\Example5.pdb
+C:\Projects\Bootcamp2023\Day04\Example5\obj\Debug\net7.0\Example5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Bootcamp2023\Day04\Example5\obj\Debug\net7.0\Example5.AssemblyInfoInputs.cache
+C:\Projects\Bootcamp2023\Day04\Example5\obj\Debug\net7.0\Example5.AssemblyInfo.cs
+C:\Projects\Bootcamp2023\Day04\Example5\obj\Debug\net7.0\Example5.csproj.CoreCompileInputs.cache
+C:\Projects\Bootcamp2023\Day04\Example5\obj\Debug\net7.0\Example5.dll
+C:\Projects\Bootcamp2023\Day04\Example5\obj\Debug\net7.0\refint\Example5.dll
+C:\Projects\Bootcamp2023\Day04\Example5\obj\Debug\net7.0\Example5.pdb
+C:\Projects\Bootcamp2023\Day04\Example5\obj\Debug\net7.0\Example5.genruntimeconfig.cache
+C:\Projects\Bootcamp2023\Day04\Example5\obj\Debug\net7.0\ref\Example5.dll
